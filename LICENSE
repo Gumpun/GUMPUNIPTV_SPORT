@@ -1,24 +1,94 @@
-This is free and unencumbered software released into the public domain.
+{
+"name": "Kids ",
+"author": "🔸⭐PLAYLists⭐🔸",
+"image": " https://sv1.picz.in.th/images/2021/07/11/sJf5uV.png",
+"url": "https://pastebin.com/raw/yqNce7nM",
+"info": "ช่องทั้งหมดทางผู้จัดทำไม่ได้มีส่วนเกี่ยวข้องใดๆทั้งสิ้น เป็นเพียงผู้รวบรวมลิ้งค์จากเว็บไซต์ที่อยู่ใน World Wide Web ที่มีอยู่ในเว็บสาธารณะเท่านั้น และขอปฏิเสธความรับผิดชอบทุกกรณี",
+"stations": [
+{
+"name": "15 July 2021",
+"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",
+"url": "xxx",
+"info": " Gumpun แบ่งปันiptv ",
+"playInNatPlayer": "true"
+},
+{
+"name": "⭐GUMPUN⭐",
+"image":"https://sv1.picz.in.th/images/2021/07/06/s8yWdf.png",
+"url": "xxx",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+{
+"name": "Cartoon Club",
+"image":"https://sv1.picz.in.th/images/2021/07/11/sJg9zS.png",
+"url": "http://cartoonclub.tv/",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cartoon Club",
+"image":"https://sv1.picz.in.th/images/2021/07/11/sJg9zS.png",
+"url": "http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Boomerang TH",
+"image":"https://sv1.picz.in.th/images/2021/07/11/sJgTRn.png",
+"url": "http://27.254.130.62/feed/chboomberang/index.m3u8",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Boomerang TH",
+"image":"https://sv1.picz.in.th/images/2021/07/11/sJgTRn.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=709",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cartoon Network",
+"image":"https://sv1.picz.in.th/images/2021/07/11/sJgikD.png",
+"url": "https://we-play.tv/watching/tv/cartoon-network",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Cartoon Network",
+"image":"https://sv1.picz.in.th/images/2021/07/11/sJgikD.png",
+"url": "https://we-play.tv/watching/tv/cartoon-network",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Disney XD",
+"image":"https://sv1.picz.in.th/images/2021/07/11/sJgRO9.png",
+"url": "https://we-play.tv/watching/tv/disney-xd",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
+{
+"name": "Disney XD",
+"image":"https://sv1.picz.in.th/images/2021/07/11/sJgRO9.png",
+"url": "https://wacth.tv/tv-player/disney-xd.html",
+"referer": "xxx",
+"info": " Gumpun แบ่งปันIPTV ",
+"playInNatPlayer": "true"
+},
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
 
-For more information, please refer to <https://unlicense.org>
+
+
+]
+}
